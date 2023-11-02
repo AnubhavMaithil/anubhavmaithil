@@ -16,22 +16,22 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
- <img width="15" />
+ <img width="20" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
- <img width="15" />
+ <img width="20" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
- <img width="15" />
+ <img width="20" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
- <img width="15" />
+ <img width="20" />
  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
