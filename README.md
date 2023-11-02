@@ -59,7 +59,4 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/anubhavmaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" />
