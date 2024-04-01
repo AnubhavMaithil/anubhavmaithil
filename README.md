@@ -59,4 +59,4 @@
 
 <br clear="both">
 
-<!-- <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" /> -->
+<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" />
