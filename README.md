@@ -1,7 +1,8 @@
-<!--<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454" height="220" alt="streak graph"  />
-</div> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454)](https://git.io/streak-stats)
+<div align="center">
+<!--  <img src="https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454" height="220" alt="streak graph"  /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454)](https://git.io/streak-stats)
+</div> 
+
 
 <br clear="both">
 
