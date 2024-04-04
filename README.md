@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454&currStreakNum=00F74C" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454" height="220" alt="streak graph"  />
 </div>
 
 <br clear="both">
