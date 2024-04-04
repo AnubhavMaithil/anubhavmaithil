@@ -1,6 +1,7 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454" height="220" alt="streak graph"  />
-</div>
+</div> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=anubhavmaithil&theme=dark&border_radius=5&fire=EB5454)](https://git.io/streak-stats)
 
 <br clear="both">
 
