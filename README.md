@@ -7,7 +7,7 @@
 
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
-  Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
+  Hello, tech enthusiast here! I'm all about coding and innovation. Let's dive into the digital realm together! 🚀
 </h2>
 
 <br clear="both">
