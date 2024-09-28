@@ -5,9 +5,27 @@
 ###
 <br clear="both">
 
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
+  Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
+</h2>
+
+<br clear="both">
+
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=anubhavmaithil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavmaithil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavmaithil&theme=dracula&hide_border=false"
+    height="150" alt="languages graph" />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=anubhavmaithil&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
+
 </div>
 
 <br clear="both">
