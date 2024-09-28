@@ -22,11 +22,11 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=anubhavmaithil&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
 
-</div>
+</div> -->
 
 <br clear="both">
 
