@@ -51,4 +51,4 @@
 
 <!-- [![An image of @anubhavmaithil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anubhavmaithil)](https://holopin.io/@anubhavmaithil) -->
 
-<!-- <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" /> -->
+<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" />
