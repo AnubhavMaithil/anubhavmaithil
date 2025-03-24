@@ -1,13 +1,12 @@
+<img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Anubhav&textBg=false&desc=Maithil&descAlign=65&descAlignY=55&descSize=60&fontAlignY=35"
+    width="100%" />
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anubhavmaithil&exclude_days=Sun%2CSat&theme=dark&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph"  />
 </div>
 
 ###
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Anubhav&textBg=false&desc=Maithil&descAlign=65&descAlignY=55&descSize=60&fontAlignY=35"
-    width="100%" />
-
 <br clear="both">
 
 <h2 align="left">
