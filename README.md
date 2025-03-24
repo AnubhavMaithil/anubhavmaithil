@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anubhavmaithil&exclude_days=Sun%2CSat&theme=dark&hide_total_contributions=true" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=anubhavmaithil&exclude_days=Sun%2CSat&theme=dark&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph"  />
 </div>
 
 ###
